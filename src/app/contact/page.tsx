@@ -1,7 +1,5 @@
-import React from "react";
-
-const Contact = () => {
-  return <div>Contact</div>;
+const Dashboard = () => {
+  return <div>Dashboard</div>;
 };
 
-export default Contact;
+export default Dashboard;
